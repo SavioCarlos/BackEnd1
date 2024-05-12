@@ -13,5 +13,30 @@ aplicações de apostas, e jogos virtuais de futebol.
 - Node.js
 - JWT
 
+# Funcionalidades
+Para 
+
+- GET
+  Partidas
+  Jogadores
+  Times
+
+- POST
+  Login
+  Register
+  Partidas
+  Jogadores
+  Times
+  
+- PUT
+  Partidas
+  Jogadores
+  Times
+  
+- DELETE
+  Partidas
+  Jogadores
+  Times
+
 # Documentação da API
 https://documenter.getpostman.com/view/30516354/2sA3JNaLG7
