@@ -1,9 +1,13 @@
 # BackEnd1
 
 #Tecnologias Utilizadas#
+
 Express.js
+
 TypeScript
+
 Node.js
+
 JWT
 
 Documentação da API
