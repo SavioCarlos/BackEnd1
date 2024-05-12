@@ -17,25 +17,25 @@ aplicações de apostas, e jogos virtuais de futebol.
 Para 
 
 - GET
-  Partidas
-  Jogadores
+  Partidas,
+  Jogadores,
   Times
 
 - POST
-  Login
-  Register
-  Partidas
-  Jogadores
+  Login,
+  Register,
+  Partidas,
+  Jogadores,
   Times
   
 - PUT
-  Partidas
-  Jogadores
+  Partidas,
+  Jogadores,
   Times
   
 - DELETE
-  Partidas
-  Jogadores
+  Partidas,
+  Jogadores,
   Times
 
 # Documentação da API
